@@ -16,8 +16,12 @@ export default function Home({ allPostsData }) {
           Hi there, I'm Marcos, a Front End Developer based in Reading in the UK
         </p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href='https://nextjs.org/learn'>our Next.js tutorial</a>.)
+          This is a sample website - you’ll be building a site like this on
+          <a href='https://nextjs.org/learn'>our Next.js tutorial</a>.
+        </p>
+        <p>
+          This is my first interaction with NextJs and it's been very nice to
+          work with it.
         </p>
       </section>
 
